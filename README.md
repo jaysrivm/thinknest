@@ -51,7 +51,7 @@ Built using a powerful and modern tech stack:
 To run this project on your machine:
 
 Clone the repository:
-git clone https://github.com/yourusername/personalized-learning-app.git
+git clone https://github.com/jaysrivm/thinknest.git
 
 Navigate to the folder:
 cd personalized-learning-app
@@ -85,9 +85,6 @@ The app instantly presents a list of beginner-friendly science topics. The stude
 • Grade and Subject selection screens
 • AI-generated notes and worksheets display
 
-[Add screenshots in a public/screens/ folder and link here if needed]
-
-—
 
 🌟 Future Upgrades
 
@@ -106,5 +103,5 @@ Have a feature in mind? Spot a bug? We welcome all contributions — just fork t
 —
 
 Crafted with ❤️ to make learning engaging, personalized, and intelligent.
-Created by [Your Name] – Let’s change the future of education together.
+Created by Jaysri – Let’s change the future of education together.
 
