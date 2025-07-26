@@ -1,4 +1,5 @@
 📚 AI-Powered Personalized Learning App - ThinkNest
+( 6 Hr AI Hackathon)
 
 Welcome ThinkNest — your all-in-one intelligent learning assistant. This web application is powered by the Groq AI API and crafted using cutting-edge web technologies like Next.js and Node.js to offer students a fully customized educational experience.
 
