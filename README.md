@@ -105,3 +105,10 @@ Have a feature in mind? Spot a bug? We welcome all contributions — just fork t
 Crafted with ❤️ to make learning engaging, personalized, and intelligent.
 Created by Jaysri – Let’s change the future of education together.
 
+
+
+
+![img1](https://github.com/user-attachments/assets/3a0e250d-513e-4c25-aa5e-36a64f219870)
+
+
+
